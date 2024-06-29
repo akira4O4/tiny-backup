@@ -2,3 +2,4 @@
 .vscode
 /temp/
 /development logs.md
+*.env
